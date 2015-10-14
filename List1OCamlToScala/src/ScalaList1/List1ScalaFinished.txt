@@ -1,1 +1,5 @@
 1.6 def palindrome (aLista:List[Int]) =  aLista reverse
+
+1.7 def listLength [A](aLista:List[A]):Int =
+		if (aLista==Nil) 0
+		else 1+listLength(aLista tail)
