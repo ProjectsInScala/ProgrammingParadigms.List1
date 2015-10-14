@@ -370,3 +370,44 @@ when weaving
 2015-10-14 19:07:51,138  WARN [Worker-11] - ScalaProject - Project List1NotWorksInIDEOnlyReplAndNotes runs on platform default installation.
 2015-10-14 19:07:51,156  WARN [Worker-11] - ScalaProject - Project List1NotWorksInIDEOnlyReplAndNotes has platform default sourceLevel.
 2015-10-14 19:07:51,157  WARN [Worker-11] - ScalaProject - Project List1NotWorksInIDEOnlyReplAndNotes runs on platform default installation.
+2015-10-14 19:17:10,715 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-14 19:17:16,930  WARN [ModalContext] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:16,931  WARN [ModalContext] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:17,643  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:17,644  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:18,001  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:18,001  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:18,037  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:18,037  WARN [Worker-10] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:30,353  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:30,354  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:30,395  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:30,395  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:30,419  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:30,420  WARN [Worker-0] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:31,582 ERROR [Worker-11] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.ui.launchConfigurations.JavaAppletLaunchShortcut
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-14 19:17:31,618 ERROR [Worker-11] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-14 19:17:41,867  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:41,867  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:41,916  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:41,916  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:41,950  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:41,950  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:44,142  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:44,142  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:44,165  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:44,165  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
+2015-10-14 19:17:44,181  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala has platform default sourceLevel.
+2015-10-14 19:17:44,181  WARN [Worker-7] - ScalaProject - Project List1OCamlToScala runs on platform default installation.
