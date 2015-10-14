@@ -1,7 +1,3 @@
-1.1 def flatten [A](aList:List[List[A]]):List[A] = 
-		if (aList == Nil) Nil
-		else ((aList head) ::: flatten(aList tail))
-
 1.2 def count [A](aObject:A,aList:List[A]):Int = 
 		if (aList==Nil) 0
 		else if ((aList head) == aObject) (1+count(aObject,aList tail))

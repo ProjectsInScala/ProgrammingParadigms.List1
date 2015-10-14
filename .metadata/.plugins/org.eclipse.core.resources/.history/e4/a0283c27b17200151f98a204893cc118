@@ -1,4 +1,4 @@
-1.1 def flatten [A](aList:List[List[A]]):List[A] = 
+1.1  def flatten [A](aList:List[List[A]]):List[A] = 
 		if (aList == Nil) Nil
 		else ((aList head) ::: flatten(aList tail))
 
