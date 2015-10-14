@@ -1,7 +1,3 @@
-1.3 def duplicate [A](aToReply:A,aCounter:Int):List[A] = 
-		if (aCounter==0) Nil
-		else aToReply::duplicate(aToReply,aCounter-1)
-
 1.4 def sqrList ( aLista:List[Int] ):List[Int] = 
 		if (aLista==Nil) Nil
 		else ( ( aLista head ) * ( aLista head ) )::sqrList(aLista tail)
