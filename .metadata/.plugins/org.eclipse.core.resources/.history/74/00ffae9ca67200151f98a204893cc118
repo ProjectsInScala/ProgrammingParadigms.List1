@@ -1,0 +1,1 @@
+1.6 def palindrome (aLista : TYPE) = List.rev aLista
